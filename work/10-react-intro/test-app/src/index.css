@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #fefae0;
+  /* flex-direction: column; */
+}
+
+h1{
+  color: #bc6c25;
+  text-align: center;
+}
