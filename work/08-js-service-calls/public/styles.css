@@ -1,0 +1,29 @@
+*, *::before, *::after { 
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  body, html { 
+    height: 100%;
+    font-family: sans-serif;
+    background-color:antiquewhite;
+  }
+#app{
+    text-align: center;
+    margin-top: 5rem;
+}
+  button{
+    background-color: burlywood;
+    color:beige;
+    padding: 3px;
+    border-radius: 0.2rem;
+    border-style: none;
+  }
+  button:hover{
+    background-color: black;
+    color: white;
+  }
+  .change-word{
+    margin-top: 2rem;
+  }
