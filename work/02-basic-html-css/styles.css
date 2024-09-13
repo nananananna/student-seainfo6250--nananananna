@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:antiquewhite;
+}
+header,footer{
+    background-color: burlywood;
+}
+main{
+    margin: 1.2rem;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
